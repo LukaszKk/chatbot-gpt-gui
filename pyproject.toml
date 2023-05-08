@@ -8,6 +8,8 @@ packages = [{include = "chatbot_gpt_gui"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+pyqt6 = "^6.5.0"
+openai = "^0.27.6"
 
 
 [build-system]
